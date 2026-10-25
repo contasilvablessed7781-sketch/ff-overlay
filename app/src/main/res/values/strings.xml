@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FF Overlay</string>
+    <string name="aim_desc">Permite movimentação de mira automática sobre a tela.</string>
+</resources>
